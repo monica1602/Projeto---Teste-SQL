@@ -61,7 +61,7 @@ Neste projeto recebemos um banco de dados de um dos serviços concorrentes nesse
 <img src="https://github.com/user-attachments/assets/89b41e34-61a2-42e9-a039-efe45935846c" alt="Projeto SQL"/>
 
 ### Quantidade de avaliações
-<img src="https://github.com/user-attachments/assets/c8f386f1-1e29-4835-b027-10df78b0d38" alt="Projeto SQL"/>
+<img src="https://github.com/user-attachments/assets/b3b6531a-046b-4fec-8774-c966043a4fc8" alt="Projeto SQL"/>
 
 ### Tabela classificação média dos livros
 <img src="https://github.com/user-attachments/assets/a26b55aa-8ae4-4c6b-a53e-3d43bbf3affc" alt="Projeto SQL"/>
