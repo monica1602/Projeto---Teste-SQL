@@ -1,4 +1,4 @@
-![projeto SQL - tabela livros](https://github.com/user-attachments/assets/f2e7b4b1-3565-4b6c-994d-fb1322afa1ff)# Projeto de Análise de Dados Aplicativo para os amantes de livros
+# Projeto de Análise de Dados Aplicativo para os amantes de livros
 
 ## Descrição do Projeto
 O coronavírus pegou o mundo todo de surpresa mudando a rotina das pessoas. Os moradores das cidades já não passavam mais seu tempo livre fora de casa, indo a cafés e shoppings; a maioria ficou em casa lendo livros. Isso chamou atenção de startups que se apressaram para desenvolver novos aplicativos para os amantes de livros.
