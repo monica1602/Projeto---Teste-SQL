@@ -1,4 +1,4 @@
-# Projeto de Análise de Dados Aplicativo para os amantes de livros
+# Projeto de Análise de Dados - Aplicativo para os amantes de livros
 
 ## Descrição do Projeto
 A pandemia de COVID-19 teve um impacto global significativo, alterando profundamente os hábitos e rotinas das pessoas em várias partes do mundo. As restrições impostas para conter o avanço do vírus levaram muitas pessoas a deixarem de frequentar estabelecimentos comerciais, como cafés, shoppings e restaurantes. Em vez disso, um grande número de indivíduos passou a se adaptar ao novo cenário, aproveitando seu tempo em casa para realizar atividades como leitura de livros. Esse novo comportamento foi particularmente marcante, pois não só mudou a dinâmica do consumo, mas também abriu novas oportunidades para diversos setores, especialmente para a indústria editorial e de entretenimento.
@@ -65,10 +65,10 @@ Esse trabalho de análise será fundamental para compreender as tendências atua
 ### Tabela avaliações
 <img src="https://github.com/user-attachments/assets/a5d04053-98d0-49f3-bbdf-a6abb8c8d76b" alt="Projeto SQL"/>
 
-### Quantidade de livros lançado depois de 01/01/2000
+### Código - Quantidade de livros lançado depois de 01/01/2000
 <img src="https://github.com/user-attachments/assets/89b41e34-61a2-42e9-a039-efe45935846c" alt="Projeto SQL"/>
 
-### Quantidade de avaliações
+### Código - Quantidade de avaliações
 <img src="https://github.com/user-attachments/assets/b3b6531a-046b-4fec-8774-c966043a4fc8" alt="Projeto SQL"/>
 
 ### Tabela classificação média dos livros
@@ -77,10 +77,10 @@ Esse trabalho de análise será fundamental para compreender as tendências atua
 ### Tabela 5 editoras com mais publicações de livros com mais de 50 páginas
 <img src="https://github.com/user-attachments/assets/c5c6140a-58c3-450e-9131-322c3b546459" alt="Projeto SQL"/>
 
-### Escritora com maior classificação média com mais de 50 avaliações
+### Código - Escritora com maior classificação média com mais de 50 avaliações
 <img src="https://github.com/user-attachments/assets/988b22b1-10a8-4597-98f9-3b4b86ca5769" alt="Projeto SQL"/>
 
-### Média das avaliações entre os usuários que classificaram mais do que 50 livros
+### Código - Média das avaliações entre os usuários que classificaram mais do que 50 livros
 <img src="https://github.com/user-attachments/assets/f78d09d9-62f1-4eda-a471-6c029c77479e" alt="Projeto SQL"/>
 
 ## Resultados
